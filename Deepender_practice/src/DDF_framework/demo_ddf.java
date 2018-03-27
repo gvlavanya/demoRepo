@@ -28,7 +28,7 @@ public void testFB() throws IOException, Exception{
 	
 	String[][] data=Readxl.setExcelFile("DDF_data", "Sheet5");
 	for(int i=1;i<data.length;i++){
-		//addddddd
+		//adddddddfffffffffff
 		/*for(int j=0;j<data.length;j++){
 			System.out.println("data is "+data[i][j]);
 			String FN=data[i][j];*/
